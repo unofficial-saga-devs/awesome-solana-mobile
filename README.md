@@ -10,7 +10,7 @@
 
 **Contributing:**
 
-Please take a quick glance at the [contribution guidelines](https://github.com/avelino/awesome-go/blob/master/CONTRIBUTING.md) first. Thanks to all [contributors](https://github.com/avelino/awesome-go/graphs/contributors)!
+Please take a quick glance at the [contribution guidelines](https://github.com/unofficial-saga-devs/awesome-solana-mobile/blob/main/CONTRIBUTING.md) first. Thanks to all contributors!
 
 > _If you see a package or project here that is no longer maintained or is not a good fit, please submit a pull request to improve this file. Thank you!_
 
