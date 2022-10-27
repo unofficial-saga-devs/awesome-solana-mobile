@@ -19,6 +19,7 @@ Please take a quick glance at the [contribution guidelines](https://github.com/u
 - [Awesome Solana Mobile](#awesome-solana-mobile)
   - [Contents](#contents)
   - [Tools](#tools)
+  - [Support](#support)
   - [Libraries](#libraries)
   - [dApps](#dapps)
     - [Wallets](#wallets)
@@ -32,6 +33,17 @@ Please take a quick glance at the [contribution guidelines](https://github.com/u
 ## Tools
 
 _Tools for building Solana mobile dApps._
+
+- [Official Solana SMS SDK](https://github.com/solana-mobile/solana-mobile-stack-sdk) - The official Solana SMS toolbox.
+
+**[⬆ back to top](#contents)**
+
+## Support
+
+_Solana mobile Community and developer support._
+
+- [Solana Mobile Grant Application](https://share.hsforms.com/17ieOT2CNT_SHx0RTjvLa_A5lohw) - Official Solana mobile grant application form.
+- [Twitter](https://mobile.twitter.com/solanamobile) - Official Solana mobile twitter.
 
 **[⬆ back to top](#contents)**
 
@@ -80,7 +92,7 @@ _Decentralized Finance applications and technologies._
 
 _Social network dApps._
 
-- [SolSnap](#TODO) - (WIP coming soon)
+- [SolSnap](https://github.com/kokokale/solsnap) - (WIP) A mobile application for creating NFTs with mobile-accessible media and sharing on existing social platforms.
 
 **[⬆ back to top](#contents)**
 
