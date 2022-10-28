@@ -35,6 +35,7 @@ Please take a quick glance at the [contribution guidelines](https://github.com/u
 _Tools for building Solana mobile dApps._
 
 - [Official Solana SMS SDK](https://github.com/solana-mobile/solana-mobile-stack-sdk) - The official Solana SMS toolbox.
+- [Realms](https://realms.today/) - DAO creation, voting, and treasury management, all in one fully on-chain product.
 
 **[⬆ back to top](#contents)**
 
@@ -76,7 +77,7 @@ _Wallets which implement SMS protocols._
 
 _dApps focused on payments, SolPay integration and similar._
 
-- [placeholder](#TODO) - Lorem Ipsum placeholder description
+- [CryptoPlease](https://www.cryptoplease.com/) - Crypto Please is a mobile wallet for Solana where you can send crypto via Whatsapp, Telegram, Signal, Email, to everyone.
 
 **[⬆ back to top](#contents)**
 
@@ -84,7 +85,8 @@ _dApps focused on payments, SolPay integration and similar._
 
 _Decentralized Finance applications and technologies._
 
-- [placeholder](#TODO) - Lorem Ipsum placeholder description
+- [GooseFX](https://www.goosefx.io/#) - A full suite DeFi platform to trade crypto, derivatives, NFTs,
+and single sided liquidity pools with yield farming.
 
 **[⬆ back to top](#contents)**
 

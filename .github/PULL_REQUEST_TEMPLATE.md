@@ -1,8 +1,8 @@
-> Please check if what you want to add to `awesome-go` list meets [quality standards](https://github.com/avelino/awesome-go/blob/main/CONTRIBUTING.md#quality-standards) before sending pull request. Thanks!
+> Please check if what you want to add to `awesome-solana-mobile` list meets [quality standards](https://github.com/avelino/awesome-solana-mobile/blob/main/CONTRIBUTING.md#quality-standards) before sending pull request. Thanks!
 
 **Please provide package links to:**
 
-- repo link (github.com, gitlab.com, etc):
+- repo link (github.com, gitlab.com, project site, etc):
 
 **Make sure that you've checked the boxes below that apply before you submit PR.**
 _Not every repository (project) will require every option, but most projects should. Check the Contribution Guidelines for details._
