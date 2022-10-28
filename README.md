@@ -67,7 +67,7 @@ _Decentralized applications built on Solana._
 
 _Wallets which implement SMS protocols._
 
-- [Solar](https://github.com/dlgrech/ksol/tree/main/android) - Android wallet shipped as part of the [kSol](https://github.com/dlgrech/ksol) library.
+- [Solar](https://github.com/dlgrech/solar-wallet) - Android wallet built on top of the [kSol](https://github.com/dlgrech/ksol) library.
 - [fakewallet](https://github.com/solana-mobile/mobile-wallet-adapter/tree/main/android/fakewallet) - Official fake mobile wallet dapp used for demonstrating SMS integration
 
 **[⬆ back to top](#contents)**
